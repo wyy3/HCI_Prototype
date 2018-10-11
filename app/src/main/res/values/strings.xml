@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HCI_Prototypes</string>
+    <string name="title_home">Home</string>
+    <string name="title_network">Network</string>
+    <string name="title_messages">Messages</string>
+    <string name="title_jobs">Jobs</string>
+</resources>
